@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.demo.gateway",
+      "microservicePath": "C:\\Users\\137LTN\\Desktop\\DemoMicroservices\\service-demo"
+    },
+    "jhipsterVersion": "6.10.3",
+    "applicationType": "gateway",
+    "baseName": "gateway",
+    "packageName": "com.demo.gateway",
+    "packageFolder": "com/demo/gateway",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDU4Y2RkN2EyMmE0NGJlNWMwNTI3MGM0Y2QwMzZhZTQzZjk1OTU4Mjk2MGUxYTBhZmY0M2RiNTg4YzA0ZDAwYjRjMGRkMjQ0MDRjNDZhYzg4NjljZjA2NmQ0MmUwYmQ3NmUzOWJkNzQ5YWE5OTJiZDFkNTQ1MWJhM2NjZGU4ZmM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1601587560250,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
